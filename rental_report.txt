@@ -1,0 +1,11 @@
+=== Movie Rental System Report ===
+
+Movie Inventory:
+Movie: The Matrix, Genre: Sci-Fi, Price: $4.99, Available: false
+Movie: Inception, Genre: Action, Price: $5.99, Available: false
+Movie: Aftersun, Genre: Drama, Price: $6.99, Available: false
+
+Active Rentals:
+Customer: Razvan, Movie: Inception, Due: Thu Dec 26 06:13:18 EET 2024
+Customer: John Doe, Movie: The Matrix, Due: Thu Dec 26 06:13:18 EET 2024
+Customer: Mihai, Movie: Aftersun, Due: Thu Dec 26 06:13:18 EET 2024
